@@ -1,3 +1,5 @@
+#!/bin/sh
+
 SCRIPTDIR=$(dirname $0)
 
 cp $SCRIPTDIR/src/puzzle $SCRIPTDIR/hdd

@@ -41,7 +41,7 @@ void sleep(uint32_t cycles)
 int main(int argc, char* argv[])
 {
     // sleep(1000000);
-    printf("Puzzle Game\n");
+    printf("Puzzle Game...\n");
 
     FILE* fp = fopen("lala.txt", "rb");
     if (fp)
